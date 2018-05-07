@@ -1,5 +1,5 @@
 # Interepretable Dialog Generation via Discrete Sentence Representation Learning (DI-VAE/DI-VST)
-Codebase for [**Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation**](https://arxiv.org/abs/1804.08069), published as a long paper in ACL 2018. See the [paper](https://arxiv.org/abs/1804.08069) for more details.
+Codebase for [Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation](https://arxiv.org/abs/1804.08069), published as a long paper in ACL 2018. See the [paper](https://arxiv.org/abs/1804.08069) for more details.
 
 # Code
 Stay tuned. This repo will be ready before the conference. See you at ACL18.
