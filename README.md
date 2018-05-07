@@ -1,5 +1,5 @@
-# InterpretableNeuralDialog
-**Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation**, published as a long paper in ACL 2017.
+# Interepretable Dialog Generation via Discrete Sentence Representation Learning (DI-VAE/DI-VST)
+Codebase for **Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation**, published as a long paper in ACL 2017.
 See the [paper](https://arxiv.org/abs/1804.08069) for more details.
 
 # Code
