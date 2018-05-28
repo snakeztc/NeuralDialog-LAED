@@ -1,5 +1,5 @@
 # Interpretable Neural Dialog Generation via Discrete Sentence Representation Learning
-Codebase for [Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation](https://arxiv.org/abs/1804.08069), published as a long paper in ACL 2018. See the [paper](https://arxiv.org/abs/1804.08069) for more details.
+Codebase for [Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation](https://arxiv.org/abs/1804.08069), published as a long paper in ACL 2018. Reference information is the at the end of this page.
 
 ## Requirements
     python 2.7
