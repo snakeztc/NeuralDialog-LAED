@@ -1,9 +1,19 @@
 # Interpretable Neural Dialog Generation via Discrete Sentence Representation Learning
-Codebase for [Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation](https://arxiv.org/abs/1804.08069), published as a long paper in ACL 2018. Reference information is in the end of this page. You can find my presentation slides [here](https://www.cs.cmu.edu/~tianchez/data/ACL2018-talk.pdf).
+Codebase for [Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation](https://arxiv.org/abs/1804.08069), published as a long paper in ACL 2018. You can find my presentation slides [here](https://www.cs.cmu.edu/~tianchez/data/ACL2018-talk.pdf).
 
 <p align="center">
   <img width="700" src="dsr-simple.png">
 </p>
+
+If you use any source codes or datasets included in this toolkit in your
+work, please cite the following paper. The bibtex are listed below:
+ 
+    @article{zhao2018unsupervised,
+      title={Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation},
+      author={Zhao, Tiancheng and Lee, Kyusong and Eskenazi, Maxine},
+      journal={arXiv preprint arXiv:1804.08069},
+      year={2018}
+    }
 
 ## Requirements
     python 2.7
@@ -66,14 +76,3 @@ All trained models and log files are saved to the *log* folder. To run a existin
 - Set the forward_only argument to be True
 - Set the load_sess argument to te the path to the model folder in *log*
 - Run the script 
-
-## References 
-If you use any source codes or datasets included in this toolkit in your
-work, please cite the following paper. The bibtex are listed below:
- 
-    @article{zhao2018unsupervised,
-      title={Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation},
-      author={Zhao, Tiancheng and Lee, Kyusong and Eskenazi, Maxine},
-      journal={arXiv preprint arXiv:1804.08069},
-      year={2018}
-    }
