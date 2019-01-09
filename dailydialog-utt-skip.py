@@ -32,7 +32,7 @@ def get_config():
 
 # Data
 data_arg = add_argument_group('Data')
-data_arg.add_argument('--data_dir', type=list, default=['data/daily_dialog'])
+data_arg.add_argument('--data_dir', type=str, nargs='+', default=['data/daily_dialog'])
 data_arg.add_argument('--log_dir', type=str, default='logs')
 
 # Network
